@@ -1,0 +1,78 @@
+[10-Nov-2021 17:52:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:52:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:52:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:52:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:52:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:52:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:53:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:53:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'root', '', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:54:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'navic6op_ecomm_demo.translations' doesn't exist in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php:359
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(359): PDO->prepare('select `lang_va...')
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(696): Illuminate\Database\Connection->Illuminate\Database\{closure}('select `lang_va...', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(663): Illuminate\Database\Connection->runQueryCallback('select `lang_va...', Array, Object(Closure))
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(367): Illuminate\Database\Connection->run('select `lang_va...', Array, Object(Closure))
+#4 /home1/navic6op/public_html/ecom/vendor/laravel in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:54:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'navic6op_ecomm_demo.translations' doesn't exist in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php:359
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(359): PDO->prepare('select `lang_va...')
+#1 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(696): Illuminate\Database\Connection->Illuminate\Database\{closure}('select `lang_va...', Array)
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(663): Illuminate\Database\Connection->runQueryCallback('select `lang_va...', Array, Object(Closure))
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php(367): Illuminate\Database\Connection->run('select `lang_va...', Array, Object(Closure))
+#4 /home1/navic6op/public_html/ecom/vendor/laravel in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[10-Nov-2021 17:54:52 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home1/navic6op/public_html/ecom/storage/framework/views/0d6b8bb1677f0f8b7a9f54cc8e4813af6361edd8.php(40): route('home')
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home1/navic6op...')
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home1/navic6op...', Array)
+#5 /home1/navic6op/public_ in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[10-Nov-2021 17:54:52 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home1/navic6op/public_html/ecom/storage/framework/views/0d6b8bb1677f0f8b7a9f54cc8e4813af6361edd8.php(40): route('home')
+#2 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home1/navic6op...')
+#3 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home1/navic6op...', Array)
+#5 /home1/navic6op/public_ in /home1/navic6op/public_html/ecom/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
